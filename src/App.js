@@ -67,7 +67,7 @@ function App() {
   };
 
   const openPDF = () => {
-    window.open('./ShahasCV_2024.pdf', '_blank'); // Adjust the path as needed
+    window.open('./Nihas CV_2025.pdf.pdf', '_blank'); // Adjust the path as needed
   };
 
   const startYear = 2015;
@@ -187,7 +187,7 @@ function App() {
             </div> */}
           </section>
           <footer className="footer flex justify-center w-full mb-20 sm:mb-5">
-            <p className="text-white">Powered ❤️ by <span className="text-purple-500">Nihas Nizar</span></p>
+            <p className="text-white">Powered by ❤️ <span className="text-purple-500">Nihas Nizar</span></p>
           </footer>
         </div>
         <nav className="fixed bottom-0 left-0 right-0 z-10 bg-[#121212] bg-opacity-100 border-t border-slate-800">
