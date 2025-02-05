@@ -67,7 +67,7 @@ function App() {
   };
 
   const openPDF = () => {
-    window.open('./Nihas CV_2025.pdf.pdf', '_blank'); // Adjust the path as needed
+    window.open('./Nihas CV_2025.pdf', '_blank'); // Adjust the path as needed
   };
 
   const startYear = 2015;
